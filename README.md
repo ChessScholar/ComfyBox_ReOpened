@@ -1,5 +1,5 @@
 # ComfyBox_ReOpened
-**WINDOWS ONLY (for now. may work with others)**
+**WINDOWS ONLY (...for now. May work with others)**
 
 This is a very broken down version of spacenuko's original ComfyBox concept. "https://github.com/space-nuko/ComfyBox.git"
 
