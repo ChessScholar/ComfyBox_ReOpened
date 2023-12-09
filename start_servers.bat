@@ -13,10 +13,8 @@ timeout /t 1 > NUL
 findstr /m "Starting server" "..\backend_log.txt"
 if errorlevel 1 goto waitForBackend
 
-REM Change to the frontend directory
-cd "..\comfybox"
-
 REM Start the frontend server
+cd "..\ComfyBox_ReOpened"
 start run.bat
 
 REM Optional: Insert a delay here to allow some time for the frontend to start
